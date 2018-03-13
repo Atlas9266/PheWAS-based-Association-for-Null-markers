@@ -10,4 +10,7 @@ We are working to develop a automatic pipeline for PheWAS analysis.
 ## Usage
 
 
+## Author
+
+Atlas Khan
 
